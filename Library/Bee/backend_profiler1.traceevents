@@ -1,0 +1,481 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1709297452719338, "dur":591, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452719938, "dur":34, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1709297452719985, "dur":23, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1709297452720012, "dur":303, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1709297452720335, "dur":521, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452720856, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973344, "dur":156, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973500, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973512, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973514, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973520, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973521, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973526, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973527, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973531, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973532, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973536, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973537, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973541, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973542, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973545, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973546, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973550, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973569, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452973582, "dur":799, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1709297452720637, "dur":317, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709297452720958, "dur":2120, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709297452723081, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1709297452723083, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709297452723148, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1709297452723152, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709297452723456, "dur":2066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1709297452725523, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1709297452725657, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709297452725690, "dur":1051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1709297452726769, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1709297452726991, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709297452726996, "dur":849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1709297452727877, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1709297452728048, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709297452728063, "dur":3956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1709297452732057, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709297452732074, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709297452732079, "dur":734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709297452732823, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709297452732845, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709297452732850, "dur":3497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709297452736360, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709297452736377, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709297452736397, "dur":5682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709297452742099, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709297452742113, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709297452742120, "dur":4766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709297452746923, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709297452746939, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709297452746944, "dur":1494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709297452748475, "dur":140441, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709297452888923, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709297452888955, "dur":985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709297452889951, "dur":83393, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452720802, "dur":209, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452721011, "dur":2069, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452723081, "dur":497, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1709297452723581, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452725530, "dur":1189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1709297452726755, "dur":218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1709297452726975, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452726983, "dur":867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1709297452727881, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452727982, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452728088, "dur":2555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452730687, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452730736, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452730740, "dur":1007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452731760, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452731785, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452731791, "dur":762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452732566, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452732581, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452732592, "dur":881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452733485, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452733498, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452733502, "dur":1240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452734753, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452734766, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452734771, "dur":467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452735250, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452735363, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452735368, "dur":1452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452736833, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452736852, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452736858, "dur":598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452737465, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452737483, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452737488, "dur":361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452737857, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452737868, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452737873, "dur":385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452738270, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452738297, "dur":16, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452738317, "dur":551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452738877, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452738890, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452738894, "dur":814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452740375, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452740394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452740398, "dur":1826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452742232, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452742251, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452742255, "dur":1025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452743289, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452743303, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452743308, "dur":673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452743988, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452744001, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452744005, "dur":1444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452745457, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452745470, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452745474, "dur":1574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452747057, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452747069, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452747073, "dur":1190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452748274, "dur":129544, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452877821, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709297452877829, "dur":561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709297452878567, "dur":94772, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452720750, "dur":253, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452721003, "dur":2211, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452723215, "dur":372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1709297452723590, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452725696, "dur":1232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1709297452726959, "dur":418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1709297452727379, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452727383, "dur":932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1709297452728343, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1709297452728413, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452728655, "dur":11488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1709297452740259, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452740278, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452740284, "dur":720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452741015, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452741040, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452741046, "dur":1066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452742124, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452742142, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452742147, "dur":640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452742885, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452742902, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452742908, "dur":1172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452744088, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452744100, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452744104, "dur":2391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452746505, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452746524, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452746529, "dur":642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452747180, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452747193, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452747197, "dur":1346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452748558, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452748573, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452748581, "dur":2455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452751046, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452751059, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452751067, "dur":472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452751547, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452751561, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452751569, "dur":62964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452814550, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452814566, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452814576, "dur":655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452815244, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452815258, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452815264, "dur":603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452815881, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452815894, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452815900, "dur":639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452816548, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452816563, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452816570, "dur":8806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452825392, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452825413, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452825422, "dur":850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452826283, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452826304, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452826309, "dur":605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452826924, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452826941, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452826950, "dur":524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452827484, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452827504, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452827509, "dur":887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452828405, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452828420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452828426, "dur":1490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452829928, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452829943, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452829951, "dur":1189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452831152, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452831170, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452831176, "dur":1690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452832879, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452832892, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452832898, "dur":2549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452835461, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452835481, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452835489, "dur":2084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452837585, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452837603, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452837611, "dur":1753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452839376, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452839390, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452839397, "dur":454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452839859, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452839873, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452839878, "dur":367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452840258, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452840270, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709297452840276, "dur":42142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709297452882432, "dur":90910, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709297452721265, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709297452721265, "dur":1950, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709297452723215, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1709297452723366, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709297452725782, "dur":1019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1709297452726830, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1709297452726943, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709297452727119, "dur":734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1709297452727892, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709297452728153, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709297452728165, "dur":16102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709297452744315, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709297452744336, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709297452744340, "dur":751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709297452745101, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709297452745115, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709297452745119, "dur":1236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709297452746364, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709297452746382, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709297452746387, "dur":869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709297452747264, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709297452747282, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709297452747286, "dur":2303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709297452749600, "dur":143163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709297452892769, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709297452892779, "dur":617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709297452893408, "dur":79937, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709297452721018, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709297452721019, "dur":2184, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709297452723207, "dur":513, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1709297452723723, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709297452725711, "dur":1120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1709297452726872, "dur":443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1709297452727317, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709297452727323, "dur":752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1709297452728107, "dur":256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1709297452728365, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709297452728368, "dur":7447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1709297452735872, "dur":166013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709297452901892, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709297452901902, "dur":827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709297452902748, "dur":70599, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452721007, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452721008, "dur":2206, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452723214, "dur":508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1709297452723724, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452725684, "dur":1143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1709297452726863, "dur":462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1709297452727327, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452727333, "dur":801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1709297452728159, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni.exe" }}
+,{ "pid":12345, "tid":6, "ts":1709297452728176, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452728191, "dur":682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni.exe" }}
+,{ "pid":12345, "tid":6, "ts":1709297452728881, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452728894, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452728965, "dur":347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452729323, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452729337, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452729347, "dur":309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452729663, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452729673, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452729677, "dur":371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452730056, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452730074, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452730081, "dur":1181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452731274, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452731300, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452731305, "dur":509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452731824, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452731841, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452731846, "dur":710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452732569, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452732589, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452732594, "dur":603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452733205, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452733218, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452733223, "dur":468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452733704, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452733717, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452733723, "dur":676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452734409, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452734426, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452734431, "dur":331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452734769, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452734784, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452734788, "dur":1380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452736183, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452736200, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452736207, "dur":388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452736601, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452736617, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452736622, "dur":430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452737060, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452737094, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452737099, "dur":529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452737635, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452737649, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452737653, "dur":452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452738114, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452738125, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452738148, "dur":610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452738765, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452738779, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452738783, "dur":454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452739247, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452739263, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452739268, "dur":401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452739678, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452739701, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452739706, "dur":2382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452742102, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452742115, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452742120, "dur":610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452742741, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452742758, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452742762, "dur":983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452743760, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452743781, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452743788, "dur":1028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452744824, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452744841, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452744846, "dur":887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452745741, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452745753, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452745757, "dur":917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452746682, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452746693, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452746697, "dur":604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452747312, "dur":85250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452832567, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452832577, "dur":7003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452839590, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452839608, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452839614, "dur":553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452840176, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452840206, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452840211, "dur":2343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452842581, "dur":113485, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452956071, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709297452956078, "dur":444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709297452956529, "dur":16812, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452721120, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452721120, "dur":2076, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452723199, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1709297452723461, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452725971, "dur":1010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1709297452727010, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1709297452727112, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452727124, "dur":948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1709297452728105, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709297452728304, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452728307, "dur":122305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709297452850657, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1709297452850678, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452850696, "dur":693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1709297452851400, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1709297452851413, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452851418, "dur":3132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1709297452854564, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":7, "ts":1709297452854578, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452854585, "dur":1741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":7, "ts":1709297452856337, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":7, "ts":1709297452856352, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452856358, "dur":5092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":7, "ts":1709297452861464, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1709297452861477, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452861484, "dur":593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1709297452862088, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1709297452862099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452862104, "dur":420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1709297452862533, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1709297452862547, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452862551, "dur":3636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1709297452866200, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1709297452866214, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452866225, "dur":476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1709297452866710, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1709297452866768, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452866773, "dur":1171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1709297452867953, "dur":786, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1709297452868743, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452868750, "dur":669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1709297452869429, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1709297452869443, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452869448, "dur":1913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1709297452871373, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1709297452871386, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452871393, "dur":839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1709297452872241, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/level2.resS" }}
+,{ "pid":12345, "tid":7, "ts":1709297452872256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452872262, "dur":428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/level2.resS" }}
+,{ "pid":12345, "tid":7, "ts":1709297452872699, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/level2" }}
+,{ "pid":12345, "tid":7, "ts":1709297452872710, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452872714, "dur":337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/level2" }}
+,{ "pid":12345, "tid":7, "ts":1709297452873064, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/level1" }}
+,{ "pid":12345, "tid":7, "ts":1709297452873078, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452873084, "dur":357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/level1" }}
+,{ "pid":12345, "tid":7, "ts":1709297452873454, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1709297452873465, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452873469, "dur":449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1709297452873927, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1709297452873938, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452873943, "dur":312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1709297452874263, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1709297452874275, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452874284, "dur":387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1709297452877078, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1709297452877095, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452877102, "dur":1075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1709297452878188, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1709297452878254, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709297452878259, "dur":2669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1709297452880940, "dur":92400, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452721411, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452721411, "dur":1800, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452723214, "dur":398, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1709297452723614, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452725728, "dur":1036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1709297452726796, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1709297452727031, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452727036, "dur":687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1709297452727750, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1709297452727983, "dur":11, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452727998, "dur":2150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1709297452730195, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452730222, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452730227, "dur":1651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452731888, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452731929, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452731934, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452733260, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452733273, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452733277, "dur":4500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452737786, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452737799, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452737804, "dur":1038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452738851, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452738864, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452738870, "dur":4164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452743046, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452743075, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452743080, "dur":674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452743763, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452743789, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452743793, "dur":923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452744727, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452744740, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452744745, "dur":821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452745581, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452745611, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452745616, "dur":1489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452747128, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452747144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452747149, "dur":2579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452749738, "dur":223016, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452972758, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709297452972765, "dur":544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Stupen/Martikulasi Programming/PinBall_I Gusti Agung Ayu Sandhya Triwahyuni_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709297452973317, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":8, "ts":1709297452973318, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709297452975213, "dur":1764, "ph":"X", "name": "ProfilerWriteOutput" }
+,
